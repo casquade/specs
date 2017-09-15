@@ -5,7 +5,7 @@
 - should NOT have many ways to describe one thing
 - should focus on practical workflows and pipelines
 
-# pwmp
+# ppmp
 
 - is an acronym of "Practical Pipeline Markup Protocol"
 - is NOT a syntax nor a language
